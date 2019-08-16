@@ -1,5 +1,5 @@
 # NutricIA
-Microsoft AI School last project
+École IA Microsoft powered by Simplon - Last project
 
 **NEW** : You can try the app online : http://nutricia-heroku.herokuapp.com/ 
 Click on "connexion" in the top bar, then you can upload your food pictures for analysis.
